@@ -8,6 +8,8 @@ A professional resume analysis dashboard built using Python and Streamlit.
 - Job Role Matching
 - Download Report
 - SQLite Database Storage
+-  ## Live Demo
+    https://ai-resume-analyzer-bjrvdx7opbbldaxtdsg3mv.streamlit.app/
 ## Screenshots
 ### Dashboard 
 
